@@ -1,2 +1,2 @@
-# Cunji-Song.github.io
-my personal site
+# Cunji Song.github.io
+personal website
